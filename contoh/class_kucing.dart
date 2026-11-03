@@ -8,4 +8,3 @@ void main(){
   final k = Kucing('Ciko');
   print(k.nama);
 }
-
